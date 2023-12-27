@@ -1,0 +1,33 @@
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe.config
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.pdb
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.csprojResolveAssemblyReference.cache
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.Form1.resources
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.Properties.Resources.resources
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.csproj.GenerateResource.Cache
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.exe
+E:\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.pdb
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe.config
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.exe
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.pdb
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.csprojResolveAssemblyReference.cache
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.pdb
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.Form1.resources
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.Properties.Resources.resources
+E:\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.csproj.GenerateResource.Cache
+E:\vs-new-1\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe.config
+E:\vs-new-1\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.exe
+E:\vs-new-1\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.pdb
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe.config
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.exe
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.pdb
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.pdb
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.csprojResolveAssemblyReference.cache
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.Form1.resources
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.Properties.Resources.resources
+E:\vs new-2\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.csproj.GenerateResource.Cache
+E:\point_of_sale(First-yr-project)\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\bin\Debug\CS_point_of_Sale.exe.config
+E:\point_of_sale(First-yr-project)\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.exe
+E:\point_of_sale(First-yr-project)\vs new\project-1st yr\CS_point_of_Sale\CS_point_of_Sale\obj\Debug\CS_point_of_Sale.pdb
